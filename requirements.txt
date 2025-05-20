@@ -1,0 +1,21 @@
+flask
+scikit-learn
+
+
+
+
+
+
+
+stress_app/
+│
+├── app.py                      # Flask backend
+├── stress_model.pkl            # Saved model
+├── tfidf_vectorizer.pkl        # Saved vectorizer
+├── templates/
+│   └── index.html              # Frontend HTML file
+├── static/
+│   └── style.css               # Optional CSS styling
+└── train_model.ipynb           # Notebook to train & save the model
+|
+|__ requirements.txt            # requires modules to import
