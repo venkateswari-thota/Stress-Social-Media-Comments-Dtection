@@ -21,10 +21,10 @@ pip install pandas scikit-learn flask joblib
 ## Project Structure 📂
 The project is divided into the following components:
 
-   𝗗𝗮𝘁𝗮𝘀𝗲𝘁 (𝗱𝗮𝘁𝗮𝘀𝗲𝘁.𝗰𝘀𝘃):
-   Contains sample social media comments labeled as 0 (No Stress) or 1 (Stress).
+𝗗𝗮𝘁𝗮𝘀𝗲𝘁 (𝗱𝗮𝘁𝗮𝘀𝗲𝘁.𝗰𝘀𝘃):
+Contains sample social media comments labeled as 0 (No Stress) or 1 (Stress).
    
-   Used for training and evaluation of the machine learning model.
+Used for training and evaluation of the machine learning model.
    
    𝗠𝗼𝗱𝗲𝗹 𝗧𝗿𝗮𝗶𝗻𝗶𝗻𝗴 (𝘁𝗿𝗮𝗶𝗻_𝗺𝗼𝗱𝗲𝗹.𝗽𝘆):
    Loads the dataset.
