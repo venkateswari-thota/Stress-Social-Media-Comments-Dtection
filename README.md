@@ -18,8 +18,8 @@ You can install all dependencies using pip:
 pip install pandas scikit-learn flask joblib
 ```
 
-Project Structure 📂
-The project is divided into the following components:
+## Project Structure 📂
+1.𝗧𝗵𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝗶𝘀 𝗱𝗶𝘃𝗶𝗱𝗲𝗱 𝗶𝗻𝘁𝗼 𝘁𝗵𝗲 𝗳𝗼𝗹𝗹𝗼𝘄𝗶𝗻𝗴 𝗰𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘀:
 
 Dataset (dataset.csv):
 Contains sample social media comments labeled as 0 (No Stress) or 1 (Stress).
