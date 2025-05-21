@@ -8,5 +8,6 @@ Before running this project, make sure the following tools and libraries are ins
 - Joblib (joblib) 💾  
 
 You can install all dependencies using pip:
-
+```bash
 pip install pandas scikit-learn flask joblib
+'''
